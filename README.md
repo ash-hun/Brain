@@ -1,4 +1,4 @@
 
 # README.md
 
-ㅋㅋ
+- [ ] PPT 작업

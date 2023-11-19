@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ash-Space.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ash-Space.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ash-Space.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ash-Space.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,7 +151,8 @@
   },
   "active": "134566eb6bcdd845",
   "lastOpenFiles": [
-    "README.md",
-    "Ash-Space.md"
+    "Ash-Space.md",
+    "assets",
+    "README.md"
   ]
 }
