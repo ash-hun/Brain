@@ -1,9 +1,10 @@
 
----
 
-## 😄 Research
-
-- ### 📄 NLP Saga
+- # 📄 NLP Saga
+	- ### NLP Task
+		- Dialogue System
+		- QA
+		- Summerization
 	- ### Language
 		- English Language
 		- Korean Language
@@ -69,24 +70,3 @@
 		- PLM
 		- Huggingface
 		- 
-
-
-## 💼 Study
-
-- ### Others..?
-
-
-## Career
-
-- ### 📦 Project
-	- #### SSukzip (완료, 수정 필요)
-	- ### 세아창원특수강 (완료, 정리 필요)
-	- ### 한국사회보장정보원 (진행중..)
-	- ### 한국어 언어모델 : WelSSISKo (진행중..)
-	- ### 세아베스틸 고도화 (예정)
-	- ### KOTRA 고도화 (예정)
-	- ### 밈 생성기 (예정)
-	- ### etc...
-- ### 🗒️ Resume / CV
-
-

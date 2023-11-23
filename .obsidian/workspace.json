@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "134566eb6bcdd845",
+            "id": "c80b8e48373d5c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,10 +149,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "134566eb6bcdd845",
+  "active": "c80b8e48373d5c4b",
   "lastOpenFiles": [
-    "Ash-Space.md",
-    "assets",
-    "README.md"
+    "Project/WelSSiSKo.md",
+    "README.md",
+    "Project/물어보장.md",
+    "Project/SSukzip.md",
+    "Project/STS 봉강 물성예측 서비스.md",
+    "Research",
+    "Career",
+    "Project/Auto-Data-Generator.md",
+    "Research/NLP-SAGA.md",
+    "Project",
+    "Career/Resume.md",
+    "assets"
   ]
 }
