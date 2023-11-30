@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/NLP-SAGA.md",
+                "file": "Career/JD 분석_NLP 엔지니어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/NLP-SAGA.md",
+                "file": "Career/JD 분석_NLP 엔지니어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/NLP-SAGA.md",
+                "file": "Career/JD 분석_NLP 엔지니어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/NLP-SAGA.md"
+                "file": "Career/JD 분석_NLP 엔지니어.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "c80b8e48373d5c4b",
   "lastOpenFiles": [
-    "README.md",
     "Research/NLP-SAGA.md",
+    "Career/JD 분석_NLP 엔지니어.md",
+    "README.md",
     "Ash-Space.md",
     "Project/WelSSiSKo.md",
     "Project/물어보장.md",

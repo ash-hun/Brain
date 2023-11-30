@@ -1,9 +1,17 @@
 
 
 - # 📄 NLP Saga
-	- ### NLP Task
+	- ### NLP DownStream Task
+		- Topic Classification
+		- Semantic Textual Similarity
+		- Natural Language Inference
+		- Named Entity Recognition
+		- Relation Extraction
+		- Dependency Parsing
+		- Machine Reading Comprehension
+		- Dialogue State Tracking
 		- Dialogue System
-		- QA
+		- Qusetion Answering
 		- Summerization
 	- ### Language
 		- English Language
