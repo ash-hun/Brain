@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b79e379f16b1533c",
+        "id": "153415fe13d635ed",
         "type": "tabs",
         "children": [
           {
-            "id": "bfb9a7aad8e912ce",
+            "id": "fa41b5c5051e69d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/STS 봉강 물성예측 서비스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73b881d14a156456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/경험 공유.md",
+                "file": "Project/물어보장.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "267a6d7eb575498f",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/STS 봉강 물성예측 서비스.md",
+                "file": "Project/물어보장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/STS 봉강 물성예측 서비스.md",
+                "file": "Project/물어보장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/STS 봉강 물성예측 서비스.md"
+                "file": "Project/물어보장.md"
               }
             }
           }
@@ -164,7 +151,14 @@
   },
   "active": "5d4311e00887c755",
   "lastOpenFiles": [
+    "assets/Pasted image 20231209203759.png",
+    "assets/Pasted image 20231209203218.png",
+    "assets/Pasted image 20231209203635.png",
     "Project/물어보장.md",
+    "assets/Pasted image 20231209203655.png",
+    "assets/Pasted image 20231209203545.png",
+    "assets/Pasted image 20231209203132.png",
+    "무제 폴더",
     "Project/STS 봉강 물성예측 서비스.md",
     "Personal/경험 공유.md",
     "Personal",
