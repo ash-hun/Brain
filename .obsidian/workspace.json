@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/물어보장.md",
+                "file": "Personal/경험 공유.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/물어보장.md",
+                "file": "Personal/경험 공유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/물어보장.md",
+                "file": "Personal/경험 공유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/물어보장.md"
+                "file": "Personal/경험 공유.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "6795643f46772cc3",
   "lastOpenFiles": [
+    "Project/물어보장.md",
     "Career/Resume.md",
     "Research/NLP-SAGA.md",
     "Project/WelSSiSKo.md",
@@ -158,7 +159,6 @@
     "Project/SSukZip.md",
     "Project/LLM을 활용한 수주규격서 자동매치.md",
     "Project/Auto-Data-Generator.md",
-    "Project/물어보장.md",
     "Personal/경험 공유.md",
     "assets/Pasted image 20231209203759.png",
     "assets/Pasted image 20231209203218.png",
