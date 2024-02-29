@@ -2,16 +2,16 @@
 
 - # 📄 NLP Saga
 	- ### NLP DownStream Task
-		- Topic Classification
-		- Semantic Textual Similarity
-		- Natural Language Inference
-		- Named Entity Recognition
-		- Relation Extraction
-		- Dependency Parsing
-		- Machine Reading Comprehension
-		- Dialogue State Tracking
-		- Dialogue System
-		- Qusetion Answering
+		- TC : Topic Classification
+		- STS : Semantic Textual Similarity
+		- NLI : Natural Language Inference
+		- NER : Named Entity Recognition
+		- RE : Relation Extraction
+		- DP : Dependency Parsing
+		- MRC : Machine Reading Comprehension
+		- DST : Dialogue State Tracking
+		- DS : Dialogue System
+		- QA : Question Answering
 		- Summerization
 	- ### Language
 		- English Language
@@ -73,8 +73,18 @@
 		- KLUE BenchMark
 		- PPL
 		- BLEU Score
+		- HAERAE BenchMark
+		- K-MMLU
 	- ### Trend
 		- Transfer Learning
 		- PLM
 		- Huggingface
 		- 
+	 - ### Methodology
+		 - DPO
+		 - PPO
+		 - MoE
+		 - LoRA
+		 - QLoRA
+		 - RoPe Scaling
+		 - 
