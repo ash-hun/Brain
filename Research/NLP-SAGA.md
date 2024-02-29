@@ -58,6 +58,11 @@
 		- NLP Model by usage
 			- N-Gram
 			- Language Model
+		- Attention Algorithm
+			- Self-Attention
+			- Multi-head Attention
+			- Flash-Attention
+			- HyperAttention
 	- ### Evaluate
 		- MSE
 		- RMSE
