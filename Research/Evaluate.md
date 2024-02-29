@@ -1,0 +1,17 @@
+
+- MSE
+- RMSE
+- MAE
+- MAPE
+- Confusion Matrix
+- Accuracy
+- Recall
+- Precision
+- F1-Score
+- ROCurve
+- GLUE BenchMark
+- KLUE BenchMark
+- PPL
+- BLEU Score
+- HAERAE BenchMark
+- K-MMLU

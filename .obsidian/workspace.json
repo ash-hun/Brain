@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8480d07aa86c46",
+        "id": "6b149916eb5668aa",
         "type": "tabs",
         "children": [
           {
-            "id": "6795643f46772cc3",
+            "id": "aa3cfbf293786221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/NLP-SAGA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/NLP-SAGA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/NLP-SAGA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Research/NLP-SAGA.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,14 +141,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6795643f46772cc3",
+  "active": "aa3cfbf293786221",
   "lastOpenFiles": [
-    "Career/JD 분석_NLP 엔지니어.md",
+    "Research/NLP-SAGA.md",
+    "Research/Methodology.md",
+    "Research/Trend.md",
+    "Research/Evaluate.md",
+    "Research/Model.md",
+    "Research/Embedding.md",
+    "Research/Tokenizing.md",
+    "Research/Preprocessing.md",
+    "Research/NLP DownStream Task.md",
+    "Project/README.md",
+    "Ash-Space.md",
+    "README.md",
+    "Research/Glossary.md",
     "Excalidraw/Drawing 2023-12-26 02.32.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 20.14.34.excalidraw.md",
+    "Career/JD 분석_NLP 엔지니어.md",
     "Personal/경험 공유.md",
     "Project/물어보장.md",
     "Career/Resume.md",
-    "Research/NLP-SAGA.md",
     "Project/WelSSiSKo.md",
     "Project/STS 봉강 물성예측 서비스.md",
     "Project/SSukZip.md",
@@ -170,10 +175,7 @@
     "assets/Pasted image 20231209203132.png",
     "무제 폴더",
     "Personal",
-    "Excalidraw/Drawing 2023-12-05 20.14.34.excalidraw.md",
     "Excalidraw",
-    "README.md",
-    "Ash-Space.md",
     "Research",
     "Career",
     "Project",

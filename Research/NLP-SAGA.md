@@ -1,7 +1,7 @@
 
 
 - # 📄 NLP Saga
-	- ### NLP DownStream Task
+	- ### [[NLP DownStream Task]]
 		- TC : Topic Classification
 		- STS : Semantic Textual Similarity
 		- NLI : Natural Language Inference
@@ -13,17 +13,14 @@
 		- DS : Dialogue System
 		- QA : Question Answering
 		- Summerization
-	- ### Language
-		- English Language
-		- Korean Language
-	- ### Preprocessing
+	- ### [[Preprocessing]]
 		- Corpus
 			- Vocabulary
 			- OOV (Out of Vocabulary)
 		- Word
 		- Sentence
 		- Vector Similarity
-	- ### Tokenize
+	- ### [[Tokenizing]]
 		- English Tokenize
 		- Korean Tokenize
 		- Count of Tokens
@@ -31,7 +28,7 @@
 			- BPE (Byte-Pair Encoding)
 			- WordPiece Tokenizer
 			- SentencePiece Tokenizer
-	- ### Embedding
+	- ### [[Embedding]]
 		- Integer labeled encoding
 			- OHE (One Hot Encoding)
 			- OHV (One Hot Vector)
@@ -44,7 +41,7 @@
 			- Skip-Gram
 		- Sent2Vec
 		- Doc2Vec
-	- ### Model
+	- ### [[Model]]
 		- NLP Model by structured
 			- 1D CNN
 			- RNN
@@ -63,7 +60,7 @@
 			- Multi-head Attention
 			- Flash-Attention
 			- HyperAttention
-	- ### Evaluate
+	- ### [[Evaluate]]
 		- MSE
 		- RMSE
 		- MAE
@@ -80,16 +77,16 @@
 		- BLEU Score
 		- HAERAE BenchMark
 		- K-MMLU
-	- ### Trend
+	- ### [[Trend]]
 		- Transfer Learning
 		- PLM
 		- Huggingface
 		- 
-	 - ### Methodology
+	 - ### [[Methodology]]
 		 - DPO
 		 - PPO
 		 - MoE
 		 - LoRA
 		 - QLoRA
 		 - RoPe Scaling
-		 - 
+	 - ### [[Glossary]]

@@ -1,0 +1,13 @@
+
+- Integer labeled encoding
+	- OHE (One Hot Encoding)
+	- OHV (One Hot Vector)
+- Frequency based embedding
+	- TF
+	- IDF
+	- TF-IDF
+- Word2Vec
+	- CBOW
+	- Skip-Gram
+- Sent2Vec
+- Doc2Vec
