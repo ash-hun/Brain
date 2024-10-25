@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6b149916eb5668aa",
+        "id": "0df517cec90fe1f7",
         "type": "tabs",
         "children": [
           {
-            "id": "aa3cfbf293786221",
+            "id": "c1add744d1be1e21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research/NLP-SAGA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/NLP-SAGA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research/NLP-SAGA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Research/NLP-SAGA.md"
+              }
             }
           }
         ]
@@ -141,8 +149,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "aa3cfbf293786221",
+  "active": "c1add744d1be1e21",
   "lastOpenFiles": [
+    "Ash-Space.md",
     "Research/NLP-SAGA.md",
     "Research/Methodology.md",
     "Research/Trend.md",
@@ -153,7 +162,6 @@
     "Research/Preprocessing.md",
     "Research/NLP DownStream Task.md",
     "Project/README.md",
-    "Ash-Space.md",
     "README.md",
     "Research/Glossary.md",
     "Excalidraw/Drawing 2023-12-26 02.32.11.excalidraw.md",
