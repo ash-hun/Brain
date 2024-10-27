@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Vessel AI Conference.md",
+                "file": "Personal/Tech-Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Vessel AI Conference.md",
+                "file": "Personal/Tech-Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Vessel AI Conference.md",
+                "file": "Personal/Tech-Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Vessel AI Conference.md"
+                "file": "Personal/Tech-Interview.md"
               }
             }
           }
@@ -151,8 +151,9 @@
   },
   "active": "c1add744d1be1e21",
   "lastOpenFiles": [
-    "Ash-Space.md",
     "Personal/Vessel AI Conference.md",
+    "Personal/Tech-Interview.md",
+    "Ash-Space.md",
     "Research/NLP-SAGA.md",
     "Research/Methodology.md",
     "Research/Trend.md",
