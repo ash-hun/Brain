@@ -177,7 +177,7 @@ C++로 구성
 
 ## Seession 04. *LLM for Search*
 
-- Raptor
+- Raptor (RAG에서 익숙한 RAPTOR가 아님!!)
 - LLM Inference 최적화
 
 
@@ -186,4 +186,14 @@ INTERS : Unlocking the power of large language models in search with instrution 
 
 데이터를 구축하는 것이 가장 중요함.
 같은 task 안에서도 instruction template이 다양하다.
+
+
+
+## Seession 05. *Vertical Service*
+
+ML의 피쳐 엔지니어링과 같이 Rule-base에서 파생한 새로운 내용의 정보를 제공/활용
+
+Prompt의 구조화를 발전시켜 나갔다.
+
+마치 NER 처럼 영수증으로부터 가게 정보를 추출하는 자체 모델 개발 후 사용
 
