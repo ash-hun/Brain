@@ -164,3 +164,5 @@ SQM : Search Quality Metric
 ColBERT : 무지출 챌린지
 기본적으로 multi-vector search
 
+ColBERT Retriever 방식에 Re-Ranking을 맞추는 시도
+
