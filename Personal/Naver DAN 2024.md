@@ -155,4 +155,12 @@ SQM : Search Quality Metric
 - 검색결과에서의 저품질이란?
 	- 사용자의 찾고자 하는 목적과 다르게 검색결과가 나오는 것
 - 저품질 그룹을 한눈에 빠르게 찾기
-	- 
+
+
+---
+## Session 03. *벡터 검색의 정점에 오르다*
+벡터검색 성능 향상을 위해 ColBERT 도입
+
+ColBERT : 무지출 챌린지
+기본적으로 multi-vector search
+
