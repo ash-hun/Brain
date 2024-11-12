@@ -166,3 +166,24 @@ ColBERT : 무지출 챌린지
 
 ColBERT Retriever 방식에 Re-Ranking을 맞추는 시도
 
+Naver Search Team
+- hyun.hwarim@navercorp.com
+- ingun.kim@navercop.cpm
+
+
+Vector embedding시 전처리 수행함.
+C++로 구성
+
+
+## Seession 04. *LLM for Search*
+
+- Raptor
+- LLM Inference 최적화
+
+
+검색용 search llm의 필요성
+INTERS : Unlocking the power of large language models in search with instrution tuning
+
+데이터를 구축하는 것이 가장 중요함.
+같은 task 안에서도 instruction template이 다양하다.
+
