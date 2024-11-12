@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Tech-Interview.md",
+                "file": "Personal/Naver DAN 2024.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Naver DAN 2024"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Tech-Interview.md",
+                "file": "Personal/Naver DAN 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Naver DAN 2024의 백링크"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Tech-Interview.md",
+                "file": "Personal/Naver DAN 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Naver DAN 2024의 나가는 링크"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Tech-Interview.md"
-              }
+                "file": "Personal/Naver DAN 2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Naver DAN 2024 개요"
             }
           }
         ]
@@ -151,8 +167,9 @@
   },
   "active": "c1add744d1be1e21",
   "lastOpenFiles": [
-    "Personal/Vessel AI Conference.md",
     "Personal/Tech-Interview.md",
+    "Personal/Naver DAN 2024.md",
+    "Personal/Vessel AI Conference.md",
     "Ash-Space.md",
     "Research/NLP-SAGA.md",
     "Research/Methodology.md",
@@ -176,7 +193,6 @@
     "Project/STS 봉강 물성예측 서비스.md",
     "Project/SSukZip.md",
     "Project/LLM을 활용한 수주규격서 자동매치.md",
-    "Project/Auto-Data-Generator.md",
     "assets/Pasted image 20231209203759.png",
     "assets/Pasted image 20231209203218.png",
     "assets/Pasted image 20231209203635.png",
