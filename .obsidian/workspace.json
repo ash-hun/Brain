@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Naver DAN 2024.md",
+                "file": "Personal/GUG Graph RAG & Ontology Seminar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naver DAN 2024"
+              "title": "GUG Graph RAG & Ontology Seminar"
             }
           }
         ]
@@ -165,10 +165,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5d4311e00887c755",
+  "active": "c1add744d1be1e21",
   "lastOpenFiles": [
-    "Research/Idea.md",
     "Personal/Naver DAN 2024.md",
+    "Personal/GUG Graph RAG & Ontology Seminar.md",
+    "Research/Idea.md",
     "Personal/Tech-Interview.md",
     "Personal/Vessel AI Conference.md",
     "Ash-Space.md",
@@ -192,7 +193,6 @@
     "Career/Resume.md",
     "Project/WelSSiSKo.md",
     "Project/STS 봉강 물성예측 서비스.md",
-    "Project/SSukZip.md",
     "assets/Pasted image 20231209203759.png",
     "assets/Pasted image 20231209203218.png",
     "assets/Pasted image 20231209203635.png",
