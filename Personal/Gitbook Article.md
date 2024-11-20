@@ -11,8 +11,4 @@
 - [ ] Experiments 01
 - [ ] ColBERT 논문리뷰
 - [ ] RAG 평가셋 제작
-- [ ] Translation Prompt 
-
-
-
-HuggingFace 번역 Prompt 올리기
+- [x] Translation Prompt ✅ 2024-11-20
