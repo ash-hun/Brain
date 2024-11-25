@@ -2,7 +2,8 @@
 
 - [ ] GUG 행사리뷰
 - [ ] NAVER DAN 행사리뷰
-- [x] tistory 아티클 이전 ✅ 2024-11-23
+- [ ] if kakao 영상 리뷰
+- [x] tistory ✅ 2024-11-25
 	- [x] GDG x GDSC 행사리뷰 ✅ 2024-11-23
 	- [x] Moducon 2023
 	- [x] 맨땅에서 구축해본 개인화시스템 구축기 ✅ 2024-11-23
@@ -11,3 +12,60 @@
 - [x] ColBERT 논문리뷰 ✅ 2024-11-24
 - [ ] RAG 평가셋 제작
 - [x] Translation Prompt ✅ 2024-11-20
+
+---  
+# *Beyond of RAG*
+
+- [ ] Chunk Strategy
+	- [ ] How should chunk be structured?
+	- [ ] Recursive Chunking
+	- [ ] Semantic Chunking
+	- [ ] Contextual Embedding
+- [ ] Indexing
+	- [ ] IvFflat
+	- [ ] HNSW
+	- [ ] ColBERT
+- [ ] Pre-Retriever
+	- [ ] Decomposition
+	- [ ] Multi-Query
+	- [ ] HyDE
+	- [ ] Query Transformation
+		- [ ] Text2Language
+- [ ] Retriever
+	- [ ] Lexical Search (BM25)
+		- [ ] 한국어 wiki docs 기반 tokenizer에 따른 Lexical Search 성능평가
+	- [ ] Semantic Search
+		- [ ] 한국어 wiki docs 기반 tokenizer에 따른 Semantic Search 성능평가
+	- [ ] Ensemble Search
+		- [ ] 한국어 wiki docs 기반 tokenizer와 가중치에 따른 Ensemble Search 성능평가
+- [ ] Post-Retriever
+	- [ ] Re Ranking
+	- [ ] Filter / Compressor
+- [ ] Downstream Task
+	- [ ] Translation
+	- [ ] NER
+	- [ ] Summary
+- [ ] Evaluate
+	- [ ] Retriever gt
+	- [ ] Query gen
+	- [ ] Query Evolving
+	- [ ] Answer gt
+- [ ] Pipeline
+	- [ ] Agentic RAG
+	- [ ] Adaptive RAG
+	- [ ] Corrective RAG
+	- [ ] FastRAG
+	- [ ] Self-RAG
+	- [ ] InstructRAG
+	- [ ] DMQR-RAG
+	- [ ] Invar-RAG
+	- [ ] Assist-RAG
+	- [ ] LLM-R
+	- [ ] Fine-Grained Guidance for Retrievers
+	- [ ] RAGulator
+	- [ ] Long Context RAG
+	- [ ] HtmlRAG
+	- [ ] GraphRAG
+	- [ ] RuAG
+	- [ ] Enhancing Retrieval Performance
+	- [ ] PersianRAG
