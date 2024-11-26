@@ -16,41 +16,41 @@
 ---  
 # *Beyond of RAG*
 
-- [ ] Chunk Strategy
+- ### Chunk Strategy
 	- [ ] How should chunk be structured?
 	- [ ] Recursive Chunking
 	- [ ] Semantic Chunking
 	- [ ] Contextual Embedding
-- [ ] Indexing
+- ### Indexing
 	- [ ] IvFflat
 	- [ ] HNSW
 	- [ ] ColBERT
-- [ ] Pre-Retriever
+- ### Pre-Retriever
 	- [ ] Decomposition
 	- [ ] Multi-Query
 	- [ ] HyDE
 	- [ ] Query Transformation
 		- [ ] Text2Language
-- [ ] Retriever
+- ### Retriever
 	- [ ] Lexical Search (BM25)
 		- [ ] 한국어 wiki docs 기반 tokenizer에 따른 Lexical Search 성능평가
 	- [ ] Semantic Search
 		- [ ] 한국어 wiki docs 기반 tokenizer에 따른 Semantic Search 성능평가
 	- [ ] Ensemble Search
 		- [ ] 한국어 wiki docs 기반 tokenizer와 가중치에 따른 Ensemble Search 성능평가
-- [ ] Post-Retriever
+- ### Post-Retriever
 	- [ ] Re Ranking
 	- [ ] Filter / Compressor
-- [ ] Downstream Task
+- ### Downstream Task
 	- [ ] Translation
 	- [ ] NER
 	- [ ] Summary
-- [ ] Evaluate
+- ### Evaluate
 	- [ ] Retriever gt
 	- [ ] Query gen
 	- [ ] Query Evolving
 	- [ ] Answer gt
-- [ ] Pipeline
+- ### Pipeline
 	- [ ] Agentic RAG
 	- [ ] Adaptive RAG
 	- [ ] Corrective RAG
@@ -69,3 +69,8 @@
 	- [ ] RuAG
 	- [ ] Enhancing Retrieval Performance
 	- [ ] PersianRAG
+	- [ ] ChunkRAG
+- ### Prompting
+	- [ ] ReAct
+	- [ ] Self-Reflection
+	- [ ] 
