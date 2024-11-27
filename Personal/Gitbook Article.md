@@ -73,4 +73,6 @@
 - ### Prompting
 	- [ ] ReAct
 	- [ ] Self-Reflection
+	- [ ] Chain-of-Thought
+	- [ ] Tree-of-Thought
 	- [ ] 
