@@ -75,4 +75,4 @@
 	- [ ] Self-Reflection
 	- [ ] Chain-of-Thought
 	- [ ] Tree-of-Thought
-	- [ ] 
+	- [ ] Automatic Prompt Engineering (APE)
