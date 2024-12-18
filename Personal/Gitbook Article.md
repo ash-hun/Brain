@@ -17,7 +17,8 @@
 # *Beyond of RAG*
 
 - ### Chunk Strategy
-	- [ ] How should chunk be structured?
+	- [x] How should chunk be structured? ✅ 2024-12-02
+	- [ ] Comparison of Chunking Strategy
 	- [ ] Recursive Chunking
 	- [ ] Semantic Chunking
 	- [ ] Contextual Embedding

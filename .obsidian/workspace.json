@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "edbb586bcf473775",
+        "id": "6471b2cf6ae0894f",
         "type": "tabs",
         "children": [
           {
-            "id": "db358fc731b4fe17",
+            "id": "40eb0d1d33d2dbf1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Gitbook Article.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Gitbook Article"
             }
           }
         ]
@@ -161,7 +165,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "db358fc731b4fe17",
+  "active": "40eb0d1d33d2dbf1",
   "lastOpenFiles": [
     "Personal/Gitbook Article.md",
     "Research/개인 아이디어.md",
