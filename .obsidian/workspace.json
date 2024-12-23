@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/제 7회 Kakao Tech Meet.md",
+                "file": "Personal/Gitbook Article.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "제 7회 Kakao Tech Meet"
+              "title": "Gitbook Article"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "40eb0d1d33d2dbf1",
   "lastOpenFiles": [
-    "Personal/Gitbook Article.md",
     "Personal/제 7회 Kakao Tech Meet.md",
+    "Personal/Gitbook Article.md",
     "Research/개인 아이디어.md",
     "Personal/GUG Graph RAG & Ontology Seminar.md",
     "Personal/Naver DAN 2024.md",
