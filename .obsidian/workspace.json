@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6471b2cf6ae0894f",
+        "id": "ec73a03d8ae25b47",
         "type": "tabs",
         "children": [
           {
-            "id": "40eb0d1d33d2dbf1",
+            "id": "50bf4f039bfe7f6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Personal/Gitbook Article.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.4"
               },
-              "icon": "lucide-file",
-              "title": "Gitbook Article"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ]
@@ -40,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -144,8 +143,19 @@
               "icon": "lucide-list",
               "title": "Naver DAN 2024 개요"
             }
+          },
+          {
+            "id": "a61c3f4f52942443",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,10 +164,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -165,15 +175,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "40eb0d1d33d2dbf1",
+  "active": "50bf4f039bfe7f6b",
   "lastOpenFiles": [
+    "Personal/Tech-Interview.md",
     "Personal/제 7회 Kakao Tech Meet.md",
+    "2025-02-10.md",
+    "Excalidraw/Drawing 2025-02-10 18.34.07.excalidraw.md",
+    "Personal/GUG Graph RAG & Ontology Seminar.md",
     "Personal/Gitbook Article.md",
     "Research/개인 아이디어.md",
-    "Personal/GUG Graph RAG & Ontology Seminar.md",
     "Personal/Naver DAN 2024.md",
     "Research/Idea.md",
-    "Personal/Tech-Interview.md",
     "Personal/Vessel AI Conference.md",
     "Ash-Space.md",
     "Research/NLP-SAGA.md",
@@ -191,8 +203,6 @@
     "Excalidraw/Drawing 2023-12-26 02.32.11.excalidraw.md",
     "Excalidraw/Drawing 2023-12-05 20.14.34.excalidraw.md",
     "Career/JD 분석_NLP 엔지니어.md",
-    "Personal/경험 공유.md",
-    "Project/물어보장.md",
     "assets/Pasted image 20231209203759.png",
     "assets/Pasted image 20231209203218.png",
     "assets/Pasted image 20231209203635.png",
