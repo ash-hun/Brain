@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ec73a03d8ae25b47",
+        "id": "3e91f8dbb475dd4f",
         "type": "tabs",
         "children": [
           {
-            "id": "50bf4f039bfe7f6b",
+            "id": "0c72d1faa9a73e18",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Personal/API 정의.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "API 정의"
             }
           }
         ]
@@ -175,8 +177,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "50bf4f039bfe7f6b",
+  "active": "0c72d1faa9a73e18",
   "lastOpenFiles": [
+    "Personal/API 정의.md",
     "Personal/Tech-Interview.md",
     "Personal/제 7회 Kakao Tech Meet.md",
     "2025-02-10.md",
@@ -202,7 +205,6 @@
     "Research/Glossary.md",
     "Excalidraw/Drawing 2023-12-26 02.32.11.excalidraw.md",
     "Excalidraw/Drawing 2023-12-05 20.14.34.excalidraw.md",
-    "Career/JD 분석_NLP 엔지니어.md",
     "assets/Pasted image 20231209203759.png",
     "assets/Pasted image 20231209203218.png",
     "assets/Pasted image 20231209203635.png",
