@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Prompt and Language The Science of Prompts"
             }
+          },
+          {
+            "id": "a1ba72869ba62d77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0c72d1faa9a73e18",
+  "active": "a1ba72869ba62d77",
   "lastOpenFiles": [
     "Personal/API 정의.md",
     "Personal/Prompt and Language The Science of Prompts.md",
