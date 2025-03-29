@@ -1,5 +1,5 @@
 -- --
-# Retrieval Metrics
+# Retrieval Metricsc
 ## Rank-Unware Metric
 
 ![[Pasted image 20250329170658.png]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/일할맛 in 판교.md",
+                "file": "RAG/Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "일할맛 in 판교"
+              "title": "Evaluation"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "0c72d1faa9a73e18",
   "lastOpenFiles": [
+    "Personal/일할맛 in 판교.md",
     "RAG/Evaluation.md",
     "Pasted image 20250329173742.png",
     "Pasted image 20250329173247.png",
@@ -190,7 +191,6 @@
     "Pasted image 20250329172859.png",
     "Pasted image 20250329172821.png",
     "Pasted image 20250329172554.png",
-    "Personal/일할맛 in 판교.md",
     "RAG",
     "Personal/Prompt and Language The Science of Prompts.md",
     "Personal/API 정의.md",
